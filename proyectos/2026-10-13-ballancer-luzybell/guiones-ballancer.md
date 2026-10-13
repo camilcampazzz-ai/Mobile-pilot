@@ -3,7 +3,8 @@
 Grabación: hoy 17:00 · Lucy sola · móvil en trípode, vertical 9:16 · plataforma: Reels / TikTok / Shorts
 Fuentes: dosier Ballancer (CINCOS), ficha técnica Platinum, guía rápida Platinum 2025.
 
-> **Supuestos (cámbialos si no son correctos):** Luzybell tiene el **Ballancer Platinum** [DATO: confirmar modelo; si es Gold, solo cambia el dato de "4 ciclos" → Gold tiene 3 y pantalla con botones]. Tono: cercano, directo, voz de Lucy. No se promete ningún resultado médico ni cifras de centímetros. No he podido abrir Chrome/Fresha/la web desde esta sesión: **revisa que los servicios y nombres coincidan con lo que pone aquí.**
+> **Datos reales de luzybell.com (capturas del 13-oct):** servicio **Presoterapia Ballancer® – 30 € · 30 min** (bono 5: 125 € · bono 10: 220 €) y **Ballancer® Intensivo – 40 € · 45 min**. La web dice "presoterapia de grado médico, prenda de 24 celdas solapadas, presión 20–80 mmHg, trabaja piernas, abdomen y brazos". También: **Piernas Ligeras Express** (30 min presoterapia + 15 min masaje circulatorio, 60 €) y los bonos de adelgazamiento. Lucy: 80 reseñas 5★ en Google y Fresha.
+> **Supuestos:** modelo **Platinum** [DATO: la web solo dice "Ballancer®"; si es Gold, quita "4 programas" y di "3"]. Tono cercano, voz de Lucy. Sin promesas médicas ni cifras de cm (la web usa "eliminar celulitis" y "adelgazamiento": en vídeo yo usaría "ayuda a / estimula").
 
 ---
 
@@ -58,7 +59,7 @@ Ganador **#1** (retención) · Plan B **#2** (usa #2 como hook del vídeo inform
 | 3-8 | "Esta es la **presoterapia Ballancer**, nueva en Luzybell." | Corte a la pantalla táctil de la máquina (la mano toca "Piernas"). Texto: **NUEVA EN LUZYBELL** |
 | 8-13 ◆LOOP | "24 cámaras de aire por pierna que aprietan en oleadas… **y espera a ver lo último.**" | Plano de las cámaras inflándose en secuencia. Texto: **24 cámaras por pierna** |
 | 13-17 | "Sensación de piernas ligeras y un rato solo para ti." | Reacción de la modelo (sonrisa, relax). Texto: **Relax total** |
-| 17-20 ◆CIERRE LOOP + CTA | "Reserva la tuya en Fresha, link en bio." | Plano de la modelo saliendo / pantalón desinflándose (cierra el "lo último"). Texto: **Reserva en Fresha**. Corte final empalma con el plano 1 (loop) |
+| 17-20 ◆CIERRE LOOP + CTA | "Desde 30 euros. Reserva la tuya, link en bio." | Plano de la modelo saliendo / pantalón desinflándose (cierra el "lo último"). Texto: **Desde 30 € · Reserva**. Corte final empalma con el plano 1 (loop) |
 
 **Truco de loop:** el último plano (pantalón desinflándose) debe parecer el principio del vídeo para que se vuelva a ver solo.
 
@@ -81,9 +82,9 @@ Ganador **#1** (retención) · Plan B **#2** (usa #2 como hook del vídeo inform
 | 4-10 | "Se llama **presoterapia Ballancer** y ya la tenemos en Luzybell." | Lucy a cámara junto a la máquina. Texto: **BALLANCER · LUZYBELL** |
 | 10-16 ◆ | "Aplica presión de aire controlada, por oleadas, como un masaje: **estimula tu sistema linfático y la circulación**." | Pantalón inflándose + pantalla. Texto: **Linfático + circulación** |
 | 16-26 | "**Tiene 4 programas**: abre las vías, drena en profundidad, y dos ciclos para la circulación. Y la presión se ajusta a ti, de 20 a 80." | Pantalla táctil, mano eligiendo programa. Texto con cada ciclo: **Pretratamiento · Intenso · Wave · Ballancer** |
-| 26-34 | "**Sirve para** piernas cansadas, sensación de retención, y moldear piernas, brazos, glúteos y vientre dentro de un plan de cuidado." | Pantalón y chaqueta (si tenéis). Texto: **Piernas · Brazos · Glúteos · Vientre** |
+| 26-34 | "**Trabaja piernas, abdomen y brazos**: ideal si tienes piernas cargadas o sensación de retención. Sesión de 30 minutos, o 45 si quieres la intensiva." | Pantalón (y chaqueta si la grabas). Texto: **Piernas · Abdomen · Brazos · 30 o 45 min** |
 | 34-40 ◆ | "**Ojo:** no es para embarazo abdominal, trombosis, flebitis ni zonas inflamadas. Antes de tu sesión te hacemos un cuestionario." | Lucy a cámara, serio/cercano. Texto: **Consulta con nosotras antes** |
-| 40-46 CTA | "Mira los servicios en Fresha y reserva tu sesión. Link en bio." | Plano de la modelo relajada · Texto: **Reserva en Fresha** |
+| 40-46 CTA | "Sesión desde 30 euros, y con bono sale más barata. Reserva, link en bio." | Plano de la modelo relajada · Texto: **Desde 30 € · Bono 10: 220 €** |
 
 > El aviso de contraindicaciones viene de la guía del fabricante y del consentimiento de presoterapia. Te protege legalmente y da confianza: no lo quites.
 
@@ -137,6 +138,7 @@ Ganador **#1** (retención) · Plan B **#2** (usa #2 como hook del vídeo inform
 - [x] Loops cerrados (Vídeo A: "lo último" = desinflado; Vídeo B: "Ojo" cierra con cuestionario)
 - [x] Sin promesas médicas ni cifras inventadas
 - [x] Contraindicaciones incluidas (Vídeo B)
-- [ ] `[DATO]` por confirmar: modelo exacto (Platinum/Gold), si hay chaqueta, nombre exacto del servicio en Fresha, precio/promo de lanzamiento, ciudad
+- [ ] `[DATO]` por confirmar: modelo exacto (Platinum/Gold), si grabas la chaqueta (la web dice que trabaja brazos), ciudad, si quieres mencionar las "80 reseñas 5★" (sirve de prueba: "80 clientas, 5 estrellas")
+- [ ] **Aviso coherencia:** la web dice "Piernas Ligeras Express: compatible con embarazo", pero la guía del fabricante dice no tratar el abdomen en embarazo y consultar al médico. En el vídeo B dejé la línea de contraindicaciones; no digas "apto para embarazadas" en cámara sin confirmarlo.
 
 Cuando publiques: pásame la curva de retención (captura de Instagram/TikTok) y comparamos con lo previsto.
