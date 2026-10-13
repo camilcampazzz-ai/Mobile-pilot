@@ -1,6 +1,6 @@
 # Guía de grabación con la modelo — Ballancer (hoy 17:00)
 
-Para Lucy, sola. Móvil en trípode, **vertical (9:16)**, 4K/1080p a 30 fps, lente limpia.
+Para Lucy, sola. Móvil en trípode, **vertical 9:16, 4K a 60 fps**. **Limpia la lente antes de grabar.** Luz: **la del trípode** (no hay ventana), siempre de frente.
 Con estas tomas salen los DOS vídeos (retención e informativo). Tiempo total: **~35-40 min**.
 
 ## Antes de que llegue la modelo (10 min)
@@ -8,7 +8,8 @@ Con estas tomas salen los DOS vídeos (retención e informativo). Tiempo total: 
 - [ ] Cabina ordenada, camilla con toalla/sábana blanca, fondo limpio (nada de bolsos, cables sueltos)
 - [ ] Máquina encendida y visible, pantalla en **brillo alto**, en la pantalla de inicio (Piernas / Brazos / Mis favoritos)
 - [ ] Pantalón conectado a la máquina y tubos bien enganchados (clic)
-- [ ] Luz: mejor ventana/luz natural de frente o lateral; sin contraluz. Apaga luces amarillas si se puede
+- [ ] Luz: la del trípode, de frente y algo elevada; sin contraluz. Apaga luces amarillas si se puede
+- [ ] Lente del móvil limpia y ajustes en 9:16, 4K, 60 fps
 - [ ] Móvil: modo avión + No molestar, batería > 50 %, almacenamiento libre
 - [ ] Haz **una prueba de 5 s** y mírala: ¿se ve el pantalón? ¿se oye bien?
 

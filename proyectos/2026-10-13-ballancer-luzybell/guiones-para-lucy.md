@@ -1,5 +1,12 @@
 # Guiones para Lucy — Ballancer
 
+## Antes de grabar (2 minutos)
+
+- **Limpia la lente de la cámara** con un paño suave (si sale borroso, casi siempre es la lente sucia)
+- **Formato: 9:16 (vertical), 4K, 60 fps** (Ajustes → Cámara → Vídeo)
+- **Luz: usa la luz del trípode** (aro/foco). Es la mejor opción aquí, no hay ventana. Ponla **de frente**, un poco por encima de tu cara, y apaga cualquier otra luz que dé color amarillo
+- Modo avión y No molestar activados
+
 Móvil en trípode, **vertical**. Graba **una frase cada vez** y repítela 2 veces.
 
 ## Cómo leer los guiones
@@ -12,7 +19,7 @@ Móvil en trípode, **vertical**. Graba **una frase cada vez** y repítela 2 vec
 - **La máquina de presoterapia** detrás o a tu lado, **encendida y con la pantalla visible**
 - El **pantalón azul** puesto en la camilla, o colgado/doblado cerca
 - Fondo limpio: sin bolsos, cables sueltos ni cosas personales
-- La luz de frente (ventana delante de ti), no a tu espalda
+- La **luz del trípode** de frente, nunca detrás de ti
 - Mírate a ti, no a la pantalla: **mira a la lente** del móvil
 
 ## Para las frases en VOZ EN OFF: cómo grabarlas
